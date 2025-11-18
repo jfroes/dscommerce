@@ -174,7 +174,7 @@ GET    /users/me              # Obter dados do usuário logado
 
 - GitHub: [@jfroes](https://github.com/jfroes)
 - Email: josepaulo.froes@gmail.com
-- LinkedIn: [José Paulo Froes](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [José Paulo Froes](https://www.linkedin.com/in/josepaulofroes/)
 
 ## 📝 Licença
 
